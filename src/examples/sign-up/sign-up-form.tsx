@@ -49,7 +49,7 @@ const SignUpForm = ({
       />
       <Input
         id="sign-up-password-confirmation"
-        type={1}
+        type="password"
         placeholder="Password (Again)"
         label="Password (Again)"
         required
